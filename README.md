@@ -23,7 +23,7 @@ Below is a list of curated resources for Vuetify. If you have something that you
 ### Tutorials
 - [Using with Firebase](https://www.youtube.com/watch?v=dIkPb8krORU)
 - [Building a NUXT application](https://www.youtube.com/watch?v=vVVgB5fZJy0)
-
+- [Building a Desktop App (Vuetify + NW.js)](https://www.youtube.com/playlist?list=PLmJs3lfUmCdT9MyG60Oo6HM7xAn79vwZ0)
 
 ## Projects using Vuetify
 
