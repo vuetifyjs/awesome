@@ -33,6 +33,7 @@ Below is a list of curated resources for Vuetify. If you have something that you
 ### Open source
 - [Open API](https://darosh.github.io/oax/#/) - OpenApi Specification Explorer
 - [vuetified](https://github.com/codeitlikemiley/vuetified) - Laravel Vuetify Real Time Starter App
+- [Vuebase](https://github.com/nasirouwagana/vuebase) - a Firebase-like theme built with Vuetify
 
 
 ## Contribute
