@@ -18,7 +18,7 @@ Below is a list of curated resources for Vuetify. If you have something that you
 
 ### Community
 - [Discord Chat](https://chat.vuetifyjs.com)
-- [Twitter](https://twitter.com/vuejs)
+- [Twitter](https://twitter.com/vuetifyjs)
 
 ### Tutorials
 - [Using with Firebase](https://www.youtube.com/watch?v=dIkPb8krORU)
