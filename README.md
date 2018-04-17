@@ -24,6 +24,7 @@ Below is a list of curated resources for Vuetify. If you have something that you
 - [Using with Firebase](https://www.youtube.com/watch?v=dIkPb8krORU)
 - [Building a NUXT application](https://www.youtube.com/watch?v=vVVgB5fZJy0)
 - [Building a Desktop App (Vuetify + NW.js)](https://www.youtube.com/playlist?list=PLmJs3lfUmCdT9MyG60Oo6HM7xAn79vwZ0)
+- [Add Vuetify to Laravel with Auth scaffolding and Vuex](https://medium.com/@sergiturbadenas/step-by-step-tutorial-to-add-vuetify-to-laravel-with-scaffolding-auth-and-vuex-ac3f5a875bc5)
 
 ### Misc
 - [Storybook for Vue](https://github.com/white-rabbit-japan/vuetify-storyboard-boilerplate)
