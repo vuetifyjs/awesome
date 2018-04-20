@@ -15,6 +15,10 @@ Below is a list of curated resources for Vuetify. If you have something that you
 ### Official
 - [Documentation](https://vuetifyjs.com)
 - [GitHub Repo](https://github.com/vuetifyjs/vuetify)
+- IDE Support
+  - [Visual Studio Code](https://github.com/vuetifyjs/vuetify-vscode)
+  - [Atom Text Editor](https://github.com/vuetifyjs/vuetify-atom)
+  - [Sublime Text](https://github.com/vuetifyjs/vuetify-sublime)
 
 ### Community
 - [Discord Chat](https://chat.vuetifyjs.com)
