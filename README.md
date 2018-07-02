@@ -7,6 +7,7 @@ Below is a list of curated resources for Vuetify. If you have something that you
   - [Official](#official)
   - [Community](#community)
   - [Tutorials](#tutorials)
+  - [Misc](#misc)
 - Projects using Vuetify
   - [Open source](#open-source)
 
