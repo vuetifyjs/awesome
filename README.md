@@ -28,6 +28,7 @@ Below is a list of curated resources for Vuetify. If you have something that you
 
 ### Misc
 - [Storybook for Vue](https://github.com/white-rabbit-japan/vuetify-storyboard-boilerplate)
+- [Vuetify CRUD component generator for Rails](https://gitlab.com/cmrd-senya/vue_crud-generator) - Rails generator that builds a front end CRUD Vuetify-based component compatible with Rails controller_scaffold
 
 ## Projects using Vuetify
 
