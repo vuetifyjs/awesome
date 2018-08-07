@@ -10,6 +10,7 @@ Below is a list of curated resources for Vuetify. If you have something that you
   - [Misc](#misc)
 - Projects using Vuetify
   - [Open source](#open-source)
+  - [Showcases](#showcase)
 
 ## Resources
 
@@ -41,6 +42,9 @@ Below is a list of curated resources for Vuetify. If you have something that you
 - [GenVue](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
 - [Payshare](https://github.com/cb109/payshare) - Track shared expenses in a group of people
 - [DayspanVuetify](https://github.com/ClickerMonkey/dayspan-vuetify) - A fully featured calendar, event, and scheduling library of components.
+
+### Showcases
+- [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
 
 ## Contribute
 
