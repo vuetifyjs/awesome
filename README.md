@@ -46,6 +46,7 @@ Below is a list of curated resources for Vuetify. If you have something that you
 
 ### Showcases
 - [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
+- [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
 
 ## Contribute
 
