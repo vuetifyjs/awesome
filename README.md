@@ -42,6 +42,7 @@ Below is a list of curated resources for Vuetify. If you have something that you
 - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material admin template
 - [Vuebase](https://github.com/nasirouwagana/vuebase) - A Firebase-like theme built with Vuetify
 - [Vuetified](https://github.com/codeitlikemiley/vuetified) - Laravel Vuetify Real Time Starter App
+- [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue CLI 3 + Vuetify + Swiper
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue CLI 3 + Vuex + Vuetify
 
 ### Showcases
