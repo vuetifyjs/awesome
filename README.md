@@ -45,11 +45,15 @@ Below is a list of curated resources for Vuetify. If you have something that you
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue CLI 3 + Vuetify + Swiper
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue CLI 3 + Vuex + Vuetify
 - [Better Onetab](https://github.com/cnwangjie/better-onetab) - A better onetab extension built with on Vuetify
+- [Adminify](https://github.com/topfullstack/adminify) - An Admin dashboard based on Vuetify
+- [Vuetify Chat](https://github.com/berksaribas/vuetify-chat) - A chat built with Vue + Vuex + Vuetify + Firebase
+- [Vue Keep](https://github.com/IanLuan/vue-keep) - A Google keep like app made with vuetify
 
 ### Showcases
 - [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
 - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
 - [Blogram.me](https://blogram.me) - Iranian microblogging platform
+- [mutfak-chat.firebaseapp.com](https://mutfak-chat.firebaseapp.com/login) - A chat built with Vue + Vuex + Vuetify + Firebase
 
 ## Contribute
 
