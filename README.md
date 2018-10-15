@@ -3,7 +3,10 @@
 
 [<img src="logo.png" align="right" width="101">](https://vuetifyjs.com)
 
-Below is a list of curated resources for Vuetify.
+> A list of curated resources for Vuetify.
+
+Vuetify is a Material Component Framework for [Vue.js](https://vuejs.org/)
+
 If you have something that you think belongs here, feel free to reach out to us in the [community](#community).
 
 ## Contents
