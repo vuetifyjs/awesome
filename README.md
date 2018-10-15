@@ -50,8 +50,3 @@ Below is a list of curated resources for Vuetify. If you have something that you
 - [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
 - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
 - [Blogram.me](https://blogram.me) - Iranian microblogging platform
-
-## Contribute
-
-1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository to your own GitHub account and then [clone](https://help.github.com/articles/cloning-a-repository/) it to your local device.
-2. Start making changes!
