@@ -58,6 +58,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vue Keep](https://github.com/IanLuan/vue-keep) - A Google keep like app made with vuetify
 
 ### Showcases
+- [Asciiur.com](https://www.asciiur.com) - Internet's ascii art collection
 - [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
 - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
 - [Blogram.me](https://blogram.me) - Iranian microblogging platform
