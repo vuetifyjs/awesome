@@ -43,19 +43,19 @@ If you have something that you think belongs here, feel free to reach out to us 
 ## Projects using Vuetify
 
 ### Open source
+- [Adminify](https://github.com/topfullstack/adminify) - An Admin dashboard based on Vuetify
+- [Better Onetab](https://github.com/cnwangjie/better-onetab) - A better onetab extension built with on Vuetify
 - [DayspanVuetify](https://github.com/ClickerMonkey/dayspan-vuetify) - A fully featured calendar, event, and scheduling library of components.
 - [GenVue](https://github.com/herbat73/GenVue) - A hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
 - [Open API](https://darosh.github.io/oax/#/) - OpenApi Specification Explorer
 - [Payshare](https://github.com/cb109/payshare) - Track shared expenses in a group of people
+- [Vue Keep](https://github.com/IanLuan/vue-keep) - A Google keep like app made with vuetify
 - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material admin template
 - [Vuebase](https://github.com/nasirouwagana/vuebase) - A Firebase-like theme built with Vuetify
 - [Vuetified](https://github.com/codeitlikemiley/vuetified) - Laravel Vuetify Real Time Starter App
+- [Vuetify Chat](https://github.com/berksaribas/vuetify-chat) - A chat built with Vue + Vuex + Vuetify + Firebase
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue CLI 3 + Vuetify + Swiper
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue CLI 3 + Vuex + Vuetify
-- [Better Onetab](https://github.com/cnwangjie/better-onetab) - A better onetab extension built with on Vuetify
-- [Adminify](https://github.com/topfullstack/adminify) - An Admin dashboard based on Vuetify
-- [Vuetify Chat](https://github.com/berksaribas/vuetify-chat) - A chat built with Vue + Vuex + Vuetify + Firebase
-- [Vue Keep](https://github.com/IanLuan/vue-keep) - A Google keep like app made with vuetify
 
 ### Showcases
 - [Asciiur.com](https://www.asciiur.com) - Internet's ascii art collection
