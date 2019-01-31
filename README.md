@@ -59,10 +59,11 @@ If you have something that you think belongs here, feel free to reach out to us 
 
 ### Showcases
 - [Asciiur.com](https://www.asciiur.com) - Internet's ascii art collection
-- [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
-- [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
+- [davidgaroro.es](https://davidgaroro.es) - Personal website
 - [Blogram.me](https://blogram.me) - Iranian microblogging platform
 - [mutfak-chat.firebaseapp.com](https://mutfak-chat.firebaseapp.com/) - A chat built with Vue + Vuex + Vuetify + Firebase
+- [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
+- [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
 
 ## Contribute
 
