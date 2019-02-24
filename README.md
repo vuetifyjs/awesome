@@ -59,6 +59,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue CLI 3 + Vuex + Vuetify
 
 ### Showcases
+- [🐮Integrity Livestock Sales](https://www.integritylivestocksales.com/) - Live Auction Listings Site (Vuetify + Nuxt)
 - [Asciiur.com](https://www.asciiur.com) - Internet's ascii art collection
 - [davidgaroro.es](https://davidgaroro.es) - Personal website
 - [Blogram.me](https://blogram.me) - Iranian microblogging platform
