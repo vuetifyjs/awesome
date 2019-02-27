@@ -28,6 +28,8 @@ If you have something that you think belongs here, feel free to reach out to us 
 ### Community
 - [Discord Chat](https://chat.vuetifyjs.com)
 - [Twitter](https://twitter.com/vuetifyjs)
+- [Facebook](https://www.facebook.com/vuetifyjs)
+- [StackOverflow](https://stackoverflow.com/questions/tagged/vuetify.js)
 
 ### Tutorials
 - [Using with Firebase](https://www.youtube.com/watch?v=dIkPb8krORU)
