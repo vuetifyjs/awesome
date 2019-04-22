@@ -37,6 +37,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Building a Desktop App (Vuetify + NW.js)](https://www.youtube.com/playlist?list=PLmJs3lfUmCdT9MyG60Oo6HM7xAn79vwZ0)
 - [Add Vuetify to Laravel with Auth scaffolding and Vuex](https://medium.com/@sergiturbadenas/step-by-step-tutorial-to-add-vuetify-to-laravel-with-scaffolding-auth-and-vuex-ac3f5a875bc5)
 - [Building a simple project management site](https://www.youtube.com/watch?v=2uZYKcKHgU0&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5)
+- [Notify users about an update using SW and Vuetify Snackbar](https://medium.com/@dougallrich/give-users-control-over-app-updates-in-vue-cli-3-pwas-20453aedc1f2)
 
 ### Misc
 - [Storybook for Vue](https://github.com/white-rabbit-japan/vuetify-storyboard-boilerplate)
