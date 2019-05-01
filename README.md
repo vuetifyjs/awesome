@@ -59,6 +59,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify Chat](https://github.com/berksaribas/vuetify-chat) - A chat built with Vue + Vuex + Vuetify + Firebase
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue CLI 3 + Vuetify + Swiper
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue CLI 3 + Vuex + Vuetify
+- [Vue Admin Vuetify](https://github.com/vasttian/vue-admin-vuetify) - `vue-admin-vuetify` is a Front-end component library project based on Vue.js using Vuetify.
 
 ### Showcases
 - [🐮Integrity Livestock Sales](https://www.integritylivestocksales.com/) - Live Auction Listings Site (Vuetify + Nuxt)
