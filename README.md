@@ -51,6 +51,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [GenVue](https://github.com/herbat73/GenVue) - A hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
 - [Open API](https://darosh.github.io/oax/#/) - OpenApi Specification Explorer
 - [Payshare](https://github.com/cb109/payshare) - Track shared expenses in a group of people
+- [TodoDev](https://github.com/IanLuan/TodoDev) - A Todo Web App made for developers with Vuejs, Vuetify and Firebase.
 - [Vue Keep](https://github.com/IanLuan/vue-keep) - A Google keep like app made with vuetify
 - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material admin template
 - [Vuebase](https://github.com/nasirouwagana/vuebase) - A Firebase-like theme built with Vuetify
@@ -68,6 +69,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [mutfak-chat.firebaseapp.com](https://mutfak-chat.firebaseapp.com/) - A chat built with Vue + Vuex + Vuetify + Firebase
 - [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
 - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
+- [todoteam-3263d.web.app](https://todoteam-3263d.web.app/) - A Todo Web App made for developers with Vuejs, Vuetify and Firebase.
 
 ## Contribute
 
