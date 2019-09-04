@@ -61,6 +61,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue CLI 3 + Vuetify + Swiper
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue CLI 3 + Vuex + Vuetify
 - [Vue Admin Vuetify](https://github.com/vasttian/vue-admin-vuetify) - `vue-admin-vuetify` is a Front-end component library project based on Vue.js using Vuetify.
+- [Project Camp](https://github.com/TheWebFosters/project-camp) - Complete Project Management System (PMS), CRM, Support & Invoicing application built with Vuetify and Laravel
 
 ### Showcases
 - [🐮Integrity Livestock Sales](https://www.integritylivestocksales.com/) - Live Auction Listings Site (Vuetify + Nuxt)
@@ -70,7 +71,6 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [mutfak-chat.firebaseapp.com](https://mutfak-chat.firebaseapp.com/) - A chat built with Vue + Vuex + Vuetify + Firebase
 - [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
 - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
-- [ProjectCamp](https://pms.ultimatefosters.com/login) - Project Management System (PMS) built with Vuetify and Laravel
 - [todoteam-3263d.web.app](https://todoteam-3263d.web.app/) - A Todo Web App made for developers with Vuejs, Vuetify and Firebase.
 - [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vuetify and Electron.
 
