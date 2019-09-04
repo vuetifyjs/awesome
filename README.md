@@ -72,6 +72,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
 - [ProjectCamp](https://pms.ultimatefosters.com/login) - Project Management System (PMS) built with Vuetify and Laravel
 - [todoteam-3263d.web.app](https://todoteam-3263d.web.app/) - A Todo Web App made for developers with Vuejs, Vuetify and Firebase.
+- [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vuetify and Electron.
 
 ## Contribute
 
