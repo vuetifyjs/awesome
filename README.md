@@ -64,6 +64,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Project Camp](https://github.com/TheWebFosters/project-camp) - Complete Project Management System (PMS), CRM, Support & Invoicing application built with Vuetify and Laravel
 
 ### Showcases
+- [awesometechstack.com](https://www.awesometechstack.com/) - Identify the tech stack of websites and web-apps (Vuetify + Nuxt)
 - [🐮Integrity Livestock Sales](https://www.integritylivestocksales.com/) - Live Auction Listings Site (Vuetify + Nuxt)
 - [Asciiur.com](https://www.asciiur.com) - Internet's ascii art collection
 - [davidgaroro.es](https://davidgaroro.es) - Personal website
