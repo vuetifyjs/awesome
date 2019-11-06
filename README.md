@@ -62,6 +62,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue CLI 3 + Vuex + Vuetify
 - [Vue Admin Vuetify](https://github.com/vasttian/vue-admin-vuetify) - `vue-admin-vuetify` is a Front-end component library project based on Vue.js using Vuetify.
 - [Project Camp](https://github.com/TheWebFosters/project-camp) - Complete Project Management System (PMS), CRM, Support & Invoicing application built with Vuetify and Laravel
+- [CloudCsv](https://github.com/itsalb3rt/cloudcsv) - Storage all CSV file data into your data base from a friendly graphical interface for non-technical people, user management, email notifications and more... Vue CLI 4 + Vuex + Vuetify
 
 ### Showcases
 - [🐮Integrity Livestock Sales](https://www.integritylivestocksales.com/) - Live Auction Listings Site (Vuetify + Nuxt)
