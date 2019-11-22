@@ -63,8 +63,10 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vue Admin Vuetify](https://github.com/vasttian/vue-admin-vuetify) - `vue-admin-vuetify` is a Front-end component library project based on Vue.js using Vuetify.
 - [Project Camp](https://github.com/TheWebFosters/project-camp) - Complete Project Management System (PMS), CRM, Support & Invoicing application built with Vuetify and Laravel
 - [CloudCsv](https://github.com/itsalb3rt/cloudcsv) - Storage all CSV file data into your data base, friendly UI, user management, email notifications and more. Vue CLI + Vuex + Vuetify
+- [VuetiForm](https://github.com/MuhaddiMu/VuetiForm) - Interactive Vuetify Form Generator with Validation & Input Styling 🎉
 
 ### Showcases
+- [bit4you.io](https://www.bit4you.io) European crypto exchange using vuetify
 - [🐮Integrity Livestock Sales](https://www.integritylivestocksales.com/) - Live Auction Listings Site (Vuetify + Nuxt)
 - [Asciiur.com](https://www.asciiur.com) - Internet's ascii art collection
 - [davidgaroro.es](https://davidgaroro.es) - Personal website
@@ -74,6 +76,8 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
 - [todoteam-3263d.web.app](https://todoteam-3263d.web.app/) - A Todo Web App made for developers with Vuejs, Vuetify and Firebase.
 - [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vuetify and Electron.
+- [ConveYour Lessons](https://conveyour.com/microlearning/lessons) - Microlearning Authoring Tool created with Vue + Vuex + Vuetify + Laravel
+- [eldin.space](https://eldin.space) - Personal website
 
 ## Contribute
 
