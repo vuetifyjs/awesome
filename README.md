@@ -40,6 +40,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Notify users about an update using SW and Vuetify Snackbar](https://medium.com/@dougallrich/give-users-control-over-app-updates-in-vue-cli-3-pwas-20453aedc1f2)
 
 ### Misc
+- [@menteora/vuetify-extra](https://github.com/menteora/vuetify-extra) - Pratical example of Library based on Vuetify
 - [Storybook for Vue](https://github.com/white-rabbit-japan/vuetify-storyboard-boilerplate)
 - [Learn how to setup and use Storybook with Vuetify the proper way](https://github.com/nidkil/vuetify-with-storybook) - You have the choice to follow along and configure your project yourself using Vue CLI 3, Vuetify and Storybook and really understand how it works or just clone and use the repository. The choice is yours. Are you going to choose the red pill or the blue pill?
 - [Vuetify CRUD component generator for Rails](https://gitlab.com/cmrd-senya/vue_crud-generator) - Rails generator that builds a front end CRUD Vuetify-based component compatible with Rails controller_scaffold
