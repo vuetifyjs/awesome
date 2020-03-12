@@ -79,6 +79,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vuetify and Electron.
 - [ConveYour Lessons](https://conveyour.com/microlearning/lessons) - Microlearning Authoring Tool created with Vue + Vuex + Vuetify + Laravel
 - [eldin.space](https://eldin.space) - Personal website
+- [JuztPoint](https://app.juztpoint.com) - Manage biz any place, anytime. PWA point of sale (POS) Vue + Vuetify + Laravel
 
 ## Contribute
 
