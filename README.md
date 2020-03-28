@@ -65,6 +65,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Project Camp](https://github.com/TheWebFosters/project-camp) - Complete Project Management System (PMS), CRM, Support & Invoicing application built with Vuetify and Laravel
 - [CloudCsv](https://github.com/itsalb3rt/cloudcsv) - Storage all CSV file data into your data base, friendly UI, user management, email notifications and more. Vue CLI + Vuex + Vuetify
 - [VuetiForm](https://github.com/MuhaddiMu/VuetiForm) - Interactive Vuetify Form Generator with Validation & Input Styling 🎉
+- [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vuetify 2.2 + Vue 2.6
 
 ### Showcases
 - [bit4you.io](https://www.bit4you.io) European crypto exchange using vuetify
