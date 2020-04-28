@@ -43,6 +43,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Storybook for Vue](https://github.com/white-rabbit-japan/vuetify-storyboard-boilerplate)
 - [Learn how to setup and use Storybook with Vuetify the proper way](https://github.com/nidkil/vuetify-with-storybook) - You have the choice to follow along and configure your project yourself using Vue CLI 3, Vuetify and Storybook and really understand how it works or just clone and use the repository. The choice is yours. Are you going to choose the red pill or the blue pill?
 - [Vuetify CRUD component generator for Rails](https://gitlab.com/cmrd-senya/vue_crud-generator) - Rails generator that builds a front end CRUD Vuetify-based component compatible with Rails controller_scaffold
+- [@menteora/vuetify-extra](https://github.com/menteora/vuetify-extra) - Pratical example of Library based on Vuetify
 
 ## Projects using Vuetify
 
@@ -62,9 +63,11 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue CLI 3 + Vuex + Vuetify
 - [Vue Admin Vuetify](https://github.com/vasttian/vue-admin-vuetify) - `vue-admin-vuetify` is a Front-end component library project based on Vue.js using Vuetify.
 - [Project Camp](https://github.com/TheWebFosters/project-camp) - Complete Project Management System (PMS), CRM, Support & Invoicing application built with Vuetify and Laravel
+- [CloudCsv](https://github.com/itsalb3rt/cloudcsv) - Storage all CSV file data into your data base, friendly UI, user management, email notifications and more. Vue CLI + Vuex + Vuetify
+- [VuetiForm](https://github.com/MuhaddiMu/VuetiForm) - Interactive Vuetify Form Generator with Validation & Input Styling 🎉
 
 ### Showcases
-- [awesometechstack.com](https://www.awesometechstack.com/) - Identify the tech stack of websites and web-apps (Vuetify + Nuxt)
+- [bit4you.io](https://www.bit4you.io) European crypto exchange using vuetify
 - [🐮Integrity Livestock Sales](https://www.integritylivestocksales.com/) - Live Auction Listings Site (Vuetify + Nuxt)
 - [Asciiur.com](https://www.asciiur.com) - Internet's ascii art collection
 - [davidgaroro.es](https://davidgaroro.es) - Personal website
@@ -74,6 +77,9 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
 - [todoteam-3263d.web.app](https://todoteam-3263d.web.app/) - A Todo Web App made for developers with Vuejs, Vuetify and Firebase.
 - [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vuetify and Electron.
+- [ConveYour Lessons](https://conveyour.com/microlearning/lessons) - Microlearning Authoring Tool created with Vue + Vuex + Vuetify + Laravel
+- [eldin.space](https://eldin.space) - Personal website
+- [awesometechstack.com](https://awesometechstack.com) - Free website technology stack analyzer, technology trends and rating created with Vue + Vuetify + Nuxt
 
 ## Contribute
 
