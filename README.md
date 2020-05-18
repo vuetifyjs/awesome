@@ -43,6 +43,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Storybook for Vue](https://github.com/white-rabbit-japan/vuetify-storyboard-boilerplate)
 - [Learn how to setup and use Storybook with Vuetify the proper way](https://github.com/nidkil/vuetify-with-storybook) - You have the choice to follow along and configure your project yourself using Vue CLI 3, Vuetify and Storybook and really understand how it works or just clone and use the repository. The choice is yours. Are you going to choose the red pill or the blue pill?
 - [Vuetify CRUD component generator for Rails](https://gitlab.com/cmrd-senya/vue_crud-generator) - Rails generator that builds a front end CRUD Vuetify-based component compatible with Rails controller_scaffold
+- [@menteora/vuetify-extra](https://github.com/menteora/vuetify-extra) - Pratical example of Library based on Vuetify
 
 ## Projects using Vuetify
 
@@ -64,6 +65,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Project Camp](https://github.com/TheWebFosters/project-camp) - Complete Project Management System (PMS), CRM, Support & Invoicing application built with Vuetify and Laravel
 - [CloudCsv](https://github.com/itsalb3rt/cloudcsv) - Storage all CSV file data into your data base, friendly UI, user management, email notifications and more. Vue CLI + Vuex + Vuetify
 - [VuetiForm](https://github.com/MuhaddiMu/VuetiForm) - Interactive Vuetify Form Generator with Validation & Input Styling 🎉
+- [InertiaJS Laravel Vuetify](https://github.com/xalunda/inertiajs-laravel-vuetify) - Demo app using Laravel, InertiaJS and Vuetify
 - [Vuetify-Formbase](https://github.com/wotamann/vuetify-form-base) - Formular Generator based on Vuetify 🌟
 
 ### Showcases
