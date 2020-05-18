@@ -67,6 +67,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [VuetiForm](https://github.com/MuhaddiMu/VuetiForm) - Interactive Vuetify Form Generator with Validation & Input Styling 🎉
 - [InertiaJS Laravel Vuetify](https://github.com/xalunda/inertiajs-laravel-vuetify) - Demo app using Laravel, InertiaJS and Vuetify
 - [Vuetify-Formbase](https://github.com/wotamann/vuetify-form-base) - Formular Generator based on Vuetify 🌟
+- [ShipIT](https://github.com/18chetanpatel/shipit) - Free E-Commerce Website Theme
 
 ### Showcases
 - [bit4you.io](https://www.bit4you.io) European crypto exchange using vuetify
