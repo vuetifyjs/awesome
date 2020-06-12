@@ -74,6 +74,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [🐮Integrity Livestock Sales](https://www.integritylivestocksales.com/) - Live Auction Listings Site (Vuetify + Nuxt)
 - [Asciiur.com](https://www.asciiur.com) - Internet's ascii art collection
 - [davidgaroro.es](https://davidgaroro.es) - Personal website
+- [d-patterns.js.org](https://d-patterns.js.org) FOSS Discord templates listing website 💬
 - [Blogram.me](https://blogram.me) - Iranian microblogging platform
 - [mutfak-chat.firebaseapp.com](https://mutfak-chat.firebaseapp.com/) - A chat built with Vue + Vuex + Vuetify + Firebase
 - [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
