@@ -77,13 +77,11 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Blogram.me](https://blogram.me) - Iranian microblogging platform
 - [mutfak-chat.firebaseapp.com](https://mutfak-chat.firebaseapp.com/) - A chat built with Vue + Vuex + Vuetify + Firebase
 - [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
-- [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
 - [todoteam-3263d.web.app](https://todoteam-3263d.web.app/) - A Todo Web App made for developers with Vuejs, Vuetify and Firebase.
 - [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vuetify and Electron.
 - [ConveYour Lessons](https://conveyour.com/microlearning/lessons) - Microlearning Authoring Tool created with Vue + Vuex + Vuetify + Laravel
 - [eldin.space](https://eldin.space) - Personal website
 - [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
-- [diskotek.tv](https://diskotek.tv) - Diskotek - Software and Advertising Agency.
 - [awesometechstack.com](https://awesometechstack.com) - Free website technology stack analyzer, technology trends and rating created with Vue + Vuetify + Nuxt
 
 ## Contribute
