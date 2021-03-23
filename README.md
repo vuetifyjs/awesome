@@ -56,7 +56,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vue Keep](https://github.com/IanLuan/vue-keep) - A Google keep like app made with vuetify
 - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material admin template
 - [Vuebase](https://github.com/nasirouwagana/vuebase) - A Firebase-like theme built with Vuetify
-- [Vuetified](https://github.com/codeitlikemiley/vuetified) - Laravel Vuetify Real Time Starter App
+- [Vuetified](https://github.com/codeitlikemiley/vuetified) - Laravel Starter App Using Vue ,Vuetify, and InertiaJS. (Updated to Laravel 8.0)
 - [Vuetify Chat](https://github.com/berksaribas/vuetify-chat) - A chat built with Vue + Vuex + Vuetify + Firebase
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue CLI 3 + Vuetify + Swiper
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue CLI 3 + Vuex + Vuetify
