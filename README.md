@@ -68,6 +68,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify-Formbase](https://github.com/wotamann/vuetify-form-base) - Formular Generator based on Vuetify 🌟
 - [ShipIT](https://github.com/18chetanpatel/shipit) - Free E-Commerce Website Theme
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vuetify 2.2 + Vue 2.6
+- [EBMSoft Template](https://github.com/ebrahimMaher/ebmsoft-template) - Software Company Profile Template built using Vue.js and Vuetify
 
 ### Showcases
 - [bit4you.io](https://www.bit4you.io) European crypto exchange using vuetify
@@ -83,6 +84,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [eldin.space](https://eldin.space) - Personal website
 - [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
 - [awesometechstack.com](https://awesometechstack.com) - Free website technology stack analyzer, technology trends and rating created with Vue + Vuetify + Nuxt
+- [EBMSoft.net](https://ebmsoft.net) - Software Development Company profile site built using Vue.js + Vuetify
 
 ## Contribute
 
