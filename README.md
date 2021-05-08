@@ -69,6 +69,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [ShipIT](https://github.com/18chetanpatel/shipit) - Free E-Commerce Website Theme
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vuetify 2.2 + Vue 2.6
 - [EBMSoft Template](https://github.com/ebrahimMaher/ebmsoft-template) - Software Company Profile Template built using Vue.js and Vuetify
+- [IdeaHub](https://github.com/MakeContributions/ideahub) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
 
 ### Showcases
 - [bit4you.io](https://www.bit4you.io) European crypto exchange using vuetify
@@ -85,7 +86,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
 - [awesometechstack.com](https://awesometechstack.com) - Free website technology stack analyzer, technology trends and rating created with Vue + Vuetify + Nuxt
 - [EBMSoft.net](https://ebmsoft.net) - Software Development Company profile site built using Vue.js + Vuetify
-- [IdeaHub](https://ideashub.netlify.app/Ideas) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
+- [IdeasHub.netlify.app](https://ideashub.netlify.app/Ideas) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
 
 ## Contribute
 
