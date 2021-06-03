@@ -56,7 +56,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vue Keep](https://github.com/IanLuan/vue-keep) - A Google keep like app made with vuetify
 - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material admin template
 - [Vuebase](https://github.com/nasirouwagana/vuebase) - A Firebase-like theme built with Vuetify
-- [Vuetified](https://github.com/codeitlikemiley/vuetified) - Laravel Vuetify Real Time Starter App
+- [Vuetified](https://github.com/codeitlikemiley/vuetified) - Laravel Starter App Using Vue ,Vuetify, and InertiaJS. (Updated to Laravel 8.0)
 - [Vuetify Chat](https://github.com/berksaribas/vuetify-chat) - A chat built with Vue + Vuex + Vuetify + Firebase
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue CLI 3 + Vuetify + Swiper
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue CLI 3 + Vuex + Vuetify
@@ -68,6 +68,8 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify-Formbase](https://github.com/wotamann/vuetify-form-base) - Formular Generator based on Vuetify 🌟
 - [ShipIT](https://github.com/18chetanpatel/shipit) - Free E-Commerce Website Theme
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vuetify 2.2 + Vue 2.6
+- [EBMSoft Template](https://github.com/ebrahimMaher/ebmsoft-template) - Software Company Profile Template built using Vue.js and Vuetify
+- [IdeaHub](https://github.com/MakeContributions/ideahub) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
 
 ### Showcases
 - [bit4you.io](https://www.bit4you.io) European crypto exchange using vuetify
@@ -77,15 +79,16 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Blogram.me](https://blogram.me) - Iranian microblogging platform
 - [mutfak-chat.firebaseapp.com](https://mutfak-chat.firebaseapp.com/) - A chat built with Vue + Vuex + Vuetify + Firebase
 - [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
-- [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool built with Vuetify and Nuxt
 - [todoteam-3263d.web.app](https://todoteam-3263d.web.app/) - A Todo Web App made for developers with Vuejs, Vuetify and Firebase.
 - [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vuetify and Electron.
 - [ConveYour Lessons](https://conveyour.com/microlearning/lessons) - Microlearning Authoring Tool created with Vue + Vuex + Vuetify + Laravel
 - [eldin.space](https://eldin.space) - Personal website
 - [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
-- [diskotek.tv](https://diskotek.tv) - Diskotek - Software and Advertising Agency.
 - [awesometechstack.com](https://awesometechstack.com) - Free website technology stack analyzer, technology trends and rating created with Vue + Vuetify + Nuxt
-- [goonlinetools.com](https://goonlinetools.com/) - Free Online Tools site. Built with Nuxt, Vuetifyjs and Vuejs.
+- [GoOnlineTools](https://goonlinetools.com/) - Free Online Tools site. Built with Nuxt, Vuetifyjs and Vuejs.
+- [EBMSoft.net](https://ebmsoft.net) - Software Development Company profile site built using Vue.js + Vuetify
+- [IdeasHub.netlify.app](https://ideashub.netlify.app/#) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
+
 
 ## Contribute
 
