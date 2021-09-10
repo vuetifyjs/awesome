@@ -77,7 +77,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vuetify 2.2 + Vue 2.6
 - [EBMSoft Template](https://github.com/ebrahimMaher/ebmsoft-template) - Software Company Profile Template built using Vue.js and Vuetify
 - [IdeaHub](https://github.com/MakeContributions/ideahub) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
-- [Vuetify Icon Picker](https://github.com/MakeContributions/ideahub) - An vuetify component used to pick material design icons
+- [Vuetify Icon Picker](https://github.com/taoqingqiu/vuetify-icon-picker) - An vuetify component used to pick material design icons
 
 ### Showcases
 
