@@ -1,4 +1,5 @@
 # Awesome Vuetify
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="logo.png" align="right" width="101">](https://vuetifyjs.com)
@@ -10,6 +11,7 @@ Vuetify is a Material Component Framework for [Vue.js](https://vuejs.org/)
 If you have something that you think belongs here, feel free to reach out to us in the [community](#community).
 
 ## Contents
+
 - Resources
   - [Official](#official)
   - [Community](#community)
@@ -22,16 +24,19 @@ If you have something that you think belongs here, feel free to reach out to us 
 ## Resources
 
 ### Official
+
 - [Documentation](https://vuetifyjs.com)
 - [GitHub Repo](https://github.com/vuetifyjs/vuetify)
 
 ### Community
+
 - [Discord Chat](https://chat.vuetifyjs.com)
 - [Twitter](https://twitter.com/vuetifyjs)
 - [Facebook](https://www.facebook.com/vuetifyjs)
 - [StackOverflow](https://stackoverflow.com/questions/tagged/vuetify.js)
 
 ### Tutorials
+
 - [Using with Firebase](https://www.youtube.com/watch?v=dIkPb8krORU)
 - [Building a NUXT application](https://www.youtube.com/watch?v=vVVgB5fZJy0)
 - [Building a Desktop App (Vuetify + NW.js)](https://www.youtube.com/playlist?list=PLmJs3lfUmCdT9MyG60Oo6HM7xAn79vwZ0)
@@ -40,6 +45,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Notify users about an update using SW and Vuetify Snackbar](https://medium.com/@dougallrich/give-users-control-over-app-updates-in-vue-cli-3-pwas-20453aedc1f2)
 
 ### Misc
+
 - [Learn how to setup and use Storybook with Vuetify the proper way](https://github.com/nidkil/vuetify-with-storybook) - You have the choice to follow along and configure your project yourself using Vue CLI 3, Vuetify and Storybook and really understand how it works or just clone and use the repository. The choice is yours. Are you going to choose the red pill or the blue pill?
 - [Vuetify CRUD component generator for Rails](https://gitlab.com/cmrd-senya/vue_crud-generator) - Rails generator that builds a front end CRUD Vuetify-based component compatible with Rails controller_scaffold
 - [@menteora/vuetify-extra](https://github.com/menteora/vuetify-extra) - Pratical example of Library based on Vuetify
@@ -47,6 +53,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 ## Projects using Vuetify
 
 ### Open source
+
 - [Better Onetab](https://github.com/cnwangjie/better-onetab) - A better onetab extension built with on Vuetify
 - [DayspanVuetify](https://github.com/ClickerMonkey/dayspan-vuetify) - A fully featured calendar, event, and scheduling library of components.
 - [GenVue](https://github.com/herbat73/GenVue) - A hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
@@ -70,8 +77,10 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vuetify 2.2 + Vue 2.6
 - [EBMSoft Template](https://github.com/ebrahimMaher/ebmsoft-template) - Software Company Profile Template built using Vue.js and Vuetify
 - [IdeaHub](https://github.com/MakeContributions/ideahub) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
+- [Vuetify Icon Picker](https://github.com/MakeContributions/ideahub) - An vuetify component used to pick material design icons
 
 ### Showcases
+
 - [bit4you.io](https://www.bit4you.io) European crypto exchange using vuetify
 - [🐮Integrity Livestock Sales](https://www.integritylivestocksales.com/) - Live Auction Listings Site (Vuetify + Nuxt)
 - [Asciiur.com](https://www.asciiur.com) - Internet's ascii art collection
