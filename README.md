@@ -47,6 +47,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 ## Projects using Vuetify
 
 ### Open source
+- [NocoDB](https://github.com/nocodb/nocodb) - A Free & Open Source Airtable Alternative (17,600+ Github stars)
 - [Better Onetab](https://github.com/cnwangjie/better-onetab) - A better onetab extension built with on Vuetify
 - [DayspanVuetify](https://github.com/ClickerMonkey/dayspan-vuetify) - A fully featured calendar, event, and scheduling library of components.
 - [GenVue](https://github.com/herbat73/GenVue) - A hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
