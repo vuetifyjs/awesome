@@ -50,6 +50,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Better Onetab](https://github.com/cnwangjie/better-onetab) - A better onetab extension built with on Vuetify
 - [DayspanVuetify](https://github.com/ClickerMonkey/dayspan-vuetify) - A fully featured calendar, event, and scheduling library of components.
 - [GenVue](https://github.com/herbat73/GenVue) - A hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
+- [Materio-vuetify-vuejs-admin-template-free](https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template/) - A Production ready, carefully crafted, most comprehensive Free Vuetify Vuejs admin template.
 - [Open API](https://darosh.github.io/oax/#/) - OpenApi Specification Explorer
 - [Payshare](https://github.com/cb109/payshare) - Track shared expenses in a group of people
 - [TodoDev](https://github.com/IanLuan/TodoDev) - A Todo Web App made for developers with Vuejs, Vuetify and Firebase.
