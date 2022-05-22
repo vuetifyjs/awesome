@@ -90,6 +90,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [EBMSoft.net](https://ebmsoft.net) - Software Development Company profile site built using Vue.js + Vuetify
 - [IdeasHub.netlify.app](https://ideashub.netlify.app/#) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
 - [Perguidex](https://perguidex.io) - Perguidex lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind by living your life to the fullest ✨
+- [Newmanga](https://newmanga.org) - A platform for publishing manga translations
 
 ## Contribute
 
