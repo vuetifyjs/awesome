@@ -72,7 +72,9 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vuetify 2.2 + Vue 2.6
 - [EBMSoft Template](https://github.com/ebrahimMaher/ebmsoft-template) - Software Company Profile Template built using Vue.js and Vuetify
 - [IdeaHub](https://github.com/MakeContributions/ideahub) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
-- [vite-vue2-ts-vuetify-starter](https://github.com/logue/vite-vue2-vuetify-ts-starter) - Vuetify typescript startar template using Vite (Faster than VueCLI). Includes vue-property-decorator, vue-router, Vuex.
+- [vite-vue2-ts-vuetify-starter](https://github.com/logue/vite-vue2-vuetify-ts-starter) - Vuetify typescript startar template using Vite. Includes vue-router, Vuex.
+- [vite-vuetify-ts-starter](https://github.com/logue/vite-vuetify-ts-starter) - Vuetify3 typescript startar template using Vite. Includes vue-router, Pinia.
+- [vuetify-swatches](https://github.com/logue/vuetify-swatches) - 🎨 Color swatch component for Vuetify2 and 3.
 
 ### Showcases
 - [bit4you.io](https://www.bit4you.io) European crypto exchange using vuetify
