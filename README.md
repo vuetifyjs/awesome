@@ -72,6 +72,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vuetify 2.2 + Vue 2.6
 - [EBMSoft Template](https://github.com/ebrahimMaher/ebmsoft-template) - Software Company Profile Template built using Vue.js and Vuetify
 - [IdeaHub](https://github.com/MakeContributions/ideahub) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
+- [vitify-admin](https://github.com/kingyue737/vitify-admin) - Vite 3 admin starter template with full TypeScript support and intellisense of Vuetify components.
 
 ### Showcases
 - [bit4you.io](https://www.bit4you.io) European crypto exchange using vuetify
