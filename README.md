@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://vuetifyjs.com" target="_blank">
-    <img alt="Vuetify Logo" width="100" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
-  </a>
+ <a href="https://vuetifyjs.com" target="_blank">
+  <img alt="Vuetify Logo" width="100" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
+ </a>
 </p>
 
 <p align="center">
-  <a href="https://awesome.re">
-    <img src="https://awesome.re/badge-flat.svg" alt="Awesome">
-  </a>
+ <a href="https://awesome.re">
+  <img src="https://awesome.re/badge-flat.svg" alt="Awesome">
+ </a>
 </p>
 
 <h2 align="center">Awesome Vuetify</h2>
@@ -28,54 +28,73 @@ If you have something that you think belongs here, feel free to reach out to us 
 
 ## 📄Contents
 
-- [Projects using Vuetify](#projects)
-  - [🏢 Open source solutions](#open-source)
-  - [💡Example projects](#examples)
-  - [🖼️ Themes](#themes)
-- [Contribute](#contribute)
+- [🙌 Projects using Vuetify](#projects)
+    - [🏢 Open source solutions](#open-source)
+    - ![Vuetify 3](https://img.shields.io/badge/Vuetify-3-1697F6.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAq1BMVEUAAAAAgP+A//8Aqv8cjv+q4/+z5v8Xov8Vlf8Wm/Sx3v8UmfUUk/Wv3/+w2/8XmfQWlvSu3P+v3f8WlfgWl/QVmPSu3f8Vl/cXmPev3v8XlvWu3f8Wl/cWl/Wt3f+t3P8Wl/cVl/cVlvWt3f+u3v8Wlvev3P8WmPUWl/av3v8Wl/YWl/cWl/au3f8Wl/YWl/YWl/au3f8Wl/YWlvau3f8Wl/YWl/au3f/////cYWC4AAAANnRSTlMAAgIDCQkKCwwXFxkaICotLkJDRkdIW2JjY2R3f4CAk5abnJywt7i5zs7R0uPj5eby8vP0+/x1U4h8AAAAAWJLR0Q4oAel1gAAAJxJREFUGBm1wecCgQAUBeBDZjaRvXfK7Nz3fzO5mekn34efWspD3XCoFrgpXyQ0R5fKr0DNRF3KuT3VBCHzKDcjDKhOBdwNJXA0i2eqPh7Sroj0MKXysnjqiLiZqk9l4yW5kRZWVFsDb2qbZJOhBj6UDIdqgYgulV9BxJhqiqj8gYFTAV8GDPTxLbUjvSxitEkbcRLrrYFYloW/uAL1jiJcmJrO/AAAAABJRU5ErkJggg==)
+        - [💡 Example projects](#examples-v3)
+    - ![Vuetify 2](https://img.shields.io/badge/Vuetify-2-7BC6FF.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAq1BMVEUAAAAAgP+A//8Aqv8cjv+q4/+z5v8Xov8Vlf8Wm/Sx3v8UmfUUk/Wv3/+w2/8XmfQWlvSu3P+v3f8WlfgWl/QVmPSu3f8Vl/cXmPev3v8XlvWu3f8Wl/cWl/Wt3f+t3P8Wl/cVl/cVlvWt3f+u3v8Wlvev3P8WmPUWl/av3v8Wl/YWl/cWl/au3f8Wl/YWl/YWl/au3f8Wl/YWlvau3f8Wl/YWl/au3f/////cYWC4AAAANnRSTlMAAgIDCQkKCwwXFxkaICotLkJDRkdIW2JjY2R3f4CAk5abnJywt7i5zs7R0uPj5eby8vP0+/x1U4h8AAAAAWJLR0Q4oAel1gAAAJxJREFUGBm1wecCgQAUBeBDZjaRvXfK7Nz3fzO5mekn34efWspD3XCoFrgpXyQ0R5fKr0DNRF3KuT3VBCHzKDcjDKhOBdwNJXA0i2eqPh7Sroj0MKXysnjqiLiZqk9l4yW5kRZWVFsDb2qbZJOhBj6UDIdqgYgulV9BxJhqiqj8gYFTAV8GDPTxLbUjvSxitEkbcRLrrYFYloW/uAL1jiJcmJrO/AAAAABJRU5ErkJggg==)
+        - [➕ Additional components](#components-v2)
+        - [💡 Example projects](#examples-v2)
+- [🖼️ Themes](#themes)
+- [⌨️ Contribute](#contribute)
 
-## Projects using Vuetify <a name="projects"></a>
+## 🙌 Projects using Vuetify <a name="projects"></a>
 
 ### 🏢 Open source solutions <a name="open-source"></a>
 
-- [Commandeer](https://github.com/commandeer/open) - A Desktop cloud management app / Vuetify + Electron
-- [EBMSoft.net](https://ebmsoft.net) - Software Development Company profile site
-- [GenVue](https://github.com/herbat73/GenVue) - Hostable, web application that lets confidential users upload and share private files / Vue.js + Vuetifyjs + NetCore
-- [NocoDB](https://github.com/nocodb/nocodb) - A Free & Open Source Airtable Alternative (17,600+ Github stars) / Vuetify + Nuxt
-- [Open API Explorer](https://darosh.github.io/oax/#/) - OpenApi Specification Explorer
-- [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases / Vue 2.6 + Vuetify 2.2
+- [Commandeer](https://github.com/commandeer/open) - A Desktop cloud management app ![Electron](https://img.shields.io/badge/Electron-2A2D38.svg?logo=electron)
+- [EBMSoft.net](https://ebmsoft.net) - Software Development Company profile site 
+- [GenVue](https://github.com/herbat73/GenVue) - Hostable, web application that lets confidential users upload and share private files ![NetCore](https://img.shields.io/badge/NetCore-6D409D.svg?logo=csharp)
+- [NocoDB](https://github.com/nocodb/nocodb) - A Free & Open Source Airtable Alternative (37k Github stars) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?logo=nuxtdotjs&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white)
+- [Open API Explorer](https://darosh.github.io/oax/#/) - OpenApi Specification Explorer 
+- [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases 
 
-### 💡Example projects <a name="examples"></a>
+### Vuetify 3
 
-- [Asciiur.com](https://www.asciiur.com) - Internet's ascii art collection
-- [Better Onetab](https://github.com/cnwangjie/better-onetab) - A better onetab extension built with on Vuetify
-- [CloudCsv](https://github.com/itsalb3rt/cloudcsv) - Storage all CSV file data into your data base, friendly UI, user management, email notifications and more. Vue CLI + Vuex + Vuetify
-- [DayspanVuetify](https://github.com/ClickerMonkey/dayspan-vuetify) - A fully featured calendar, event, and scheduling library of components.
-- [IdeaHub](https://github.com/MakeContributions/ideahub) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
-- [IdeasHub.netlify.app](https://ideashub.netlify.app/#) - A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀 using Vue + Vuetify
-- [InertiaJS Laravel Vuetify](https://github.com/xalunda/inertiajs-laravel-vuetify) - Demo app using Laravel, InertiaJS and Vuetify
-- [Payshare](https://github.com/cb109/payshare) - Track shared expenses in a group of people
-- [Project Camp](https://github.com/TheWebFosters/project-camp) - Complete Project Management System (PMS), CRM, Support & Invoicing application built with Vuetify and Laravel
-- [Sozler.im](https://www.sozler.im) - quotes website built entirely with Vuetify
-- [TodoDev](https://github.com/IanLuan/TodoDev) - A Todo Web App made for developers with Vuejs, Vuetify and Firebase.
-- [Vue Admin Vuetify](https://github.com/vasttian/vue-admin-vuetify) - `vue-admin-vuetify` is a Front-end component library project based on Vue.js using Vuetify.
-- [Vue Keep](https://github.com/IanLuan/vue-keep) - A Google keep like app made with vuetify
-- [VuetiForm](https://github.com/MuhaddiMu/VuetiForm) - Interactive Vuetify Form Generator with Validation & Input Styling 🎉
-- [Vuetified](https://github.com/codeitlikemiley/vuetified) - Laravel Starter App Using Vue, Vuetify, and InertiaJS. (Updated to Laravel 8.0)
-- [Vuetify Chat](https://github.com/berksaribas/vuetify-chat) - A chat built with Vue + Vuex + Vuetify + Firebase
-- [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue CLI 3 + Vuetify + Swiper
-- [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue CLI 3 + Vuex + Vuetify
-- [Vuetify-Formbase](https://github.com/wotamann/vuetify-form-base) - Formular Generator based on Vuetify 🌟
-- [mutfak-chat.firebaseapp.com](https://mutfak-chat.firebaseapp.com/) - A chat built with Vue + Vuex + Vuetify + Firebase
-- [todoteam-3263d.web.app](https://todoteam-3263d.web.app/) - A Todo Web App made for developers with Vuejs, Vuetify and Firebase.
-- [🐮Integrity Livestock Sales](https://www.integritylivestocksales.com/) - Live Auction Listings Site (Vuetify + Nuxt)
+#### 💡 Example projects <a name="examples-v3"></a>
+
+- [Huskyfy](https://github.com/s-rigaud/huskyfy) - Advanced Spotify playlist manager ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-201936.svg?logo=spotify)
+- [Vue Material Admin](https://github.com/armomu/vue-material-admin) - Complex admin panel with integration of external library such as Babylon.Js, Three.Js, Apexchart, ... ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Babylon.js](https://img.shields.io/badge/Babylon.js-201936.svg?logo=babylon.js&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black.svg?logo=three.js)
+- [Vuetify Lux](https://github.com/yangjiakai/lux-admin-vuetify3) - Themed admin panel ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-181D27.svg?logo=firebase)
+
+### Vuetify 2
+
+#### ➕ Additional components <a name="components-v2"></a>
+
+- [Dayspan Vuetify](https://github.com/ClickerMonkey/dayspan-vuetify) - A fully featured calendar, event, and scheduling library of components.
+- [Tiptap Vuetify](https://github.com/iliyaZelenko/tiptap-vuetify) - Rich text editor build on top of [tiptap](https://github.com/ueberdosis/tiptap)
+- [Vuetify Imge Input](https://github.com/SeregPie/VuetifyImageInput) - Image editor as a component 
+- [Vuetify JsonSchema Form](https://github.com/koumoul-dev/vuetify-jsonschema-form) - Create dynamic Vuetify form from JsonSchema 
+
+#### 💡 Example projects <a name="examples-v2"></a>
+
+- [Asciiur.com](https://www.asciiur.com) - Internet's ascii art collection 
+- [Better Onetab](https://github.com/cnwangjie/better-onetab) - A `Chrome and Firefox extension` for better onetab
+- [CloudCsv](https://github.com/itsalb3rt/cloudcsv) - Storage all CSV file data into your data base, friendly UI, user management, email notifications and more. 
+- [IdeaHub](https://github.com/MakeContributions/ideahub) - A collection of ideas and projects from beginner to advance :octocat: 🎯🚀 
+- [InertiaJS Laravel Vuetify](https://github.com/xalunda/inertiajs-laravel-vuetify) - Demo app ![Laravel](https://img.shields.io/badge/Laravel-6-F13C2F.svg?logo=laravel&logoColor=F13C2F) ![Inertia](https://img.shields.io/badge/Inertia.js-8262EB.svg?logo=inertia&logoColor=white)
+- [Integrity Livestock Sales](https://www.integritylivestocksales.com/) - 🐮 Live Auction Listings ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?logo=nuxtdotjs&logoColor=white)
+- [Payshare](https://github.com/cb109/payshare) - Track shared expenses in a group of people ![Django](https://img.shields.io/badge/Django-0C4B33.svg?logo=django&logoColor=fff)
+- [Project Camp](https://github.com/TheWebFosters/project-camp) - Complete Project Management System (PMS), CRM, Support & Invoicing ![Laravel](https://img.shields.io/badge/Laravel-5-F13C2F.svg?logo=laravel&logoColor=F13C2F) 
+- [Shipit](https://github.com/18chetanpatel/shipit) - E-commerce website template 
+- [Sozler.im](https://www.sozler.im) - Quotes website ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?logo=nuxtdotjs&logoColor=white)
+- [TodoDev](https://github.com/IanLuan/TodoDev) - A `Todo Web App` made for developers ![Firebase](https://img.shields.io/badge/Firebase-181D27.svg?logo=firebase)
+- [Vue Admin Vuetify](https://github.com/vasttian/vue-admin-vuetify) - Admin interface 
+- [Vuetified](https://github.com/codeitlikemiley/vuetified) - Laravel 8 starter app ![Laravel](https://img.shields.io/badge/Laravel-8-F13C2F.svg?logo=laravel&logoColor=F13C2F)
+- [VuetiForm](https://github.com/MuhaddiMu/VuetiForm) - Interactive Vuetify Form Generator with Validation & Input Styling 🎉 
+- [Vuetify Chat](https://github.com/berksaribas/vuetify-chat) - Chat application ![Firebase](https://img.shields.io/badge/Firebase-181D27.svg?logo=firebase)
+- [Vuetify Formbase](https://github.com/wotamann/vuetify-form-base) - Formular Generator based on Vuetify 🌟 
+- [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Swiper 
+- [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA 
+
 
 ### 🖼️ Themes <a name="themes"></a>
 
-- [Materio-vuetify-vuejs-admin-template-free](https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template/) - A Production ready, carefully crafted, most comprehensive Free Vuetify Vuejs admin template.
+- [Materio Vuetify Template](https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template/) - A Production ready, carefully crafted, most comprehensive Free Vuetify Vuejs admin template.
 - [ShipIT](https://github.com/18chetanpatel/shipit) - Free E-Commerce Website Theme
-- [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material admin template
 - [Vuebase](https://github.com/nasirouwagana/vuebase) - A Firebase-like theme built with Vuetify
+- [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material admin template
+- [Vuetify Material Dashboard](https://github.com/creativetimofficial/vuetify-material-dashboard)
 
 ## ⌨️ Contribute
 
