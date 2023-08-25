@@ -1,30 +1,38 @@
-# Awesome Vuetify | [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+<p align="center">
+  <a href="https://vuetifyjs.com" target="_blank">
+    <img alt="Vuetify Logo" width="100" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
+  </a>
+</p>
 
-[<img src="logo.png" align="right" width="101">](https://vuetifyjs.com)
+<p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge-flat.svg" alt="Awesome">
+  </a>
+</p>
 
-> A curated list of resources for Vuetify.
+<h2 align="center">Awesome Vuetify</h2>
 
-[Vuetify](https://vuetifyjs.com) is a no design skills required UI Library with beautifully handcrafted [Vue](https://vuejs.org/) Components.
+[Vuetify](https://vuetifyjs.com) is a no design skills required UI Library with beautifully handcrafted [Vue](https://vuejs.org/) Components. Below you will find a collection of applications and tools that help to showcase the best of what Vuetify has to offer!
 
 If you have something that you think belongs here, feel free to reach out to us in the [community](#community).
 
-## 📢 Community 
+## 📢 Community
 
-📄 [Docs](https://vuetifyjs.com/en/)  
-🚨 [Issues](https://issues.vuetifyjs.com/)  
-🏬 [Store](https://store.vuetifyjs.com/)  
-🎮 [Play](https://play.vuetifyjs.com/)  
-💬 [Discord](https://discord.com/invite/s93b7Fv)  
-🐦 [Twitter](https://twitter.com/vuetifyjs)  
-👽 [Reddit](https://www.reddit.com/r/vuetifyjs)  
+📄 [Docs](https://vuetifyjs.com/en/)
+🚨 [Issues](https://issues.vuetifyjs.com/)
+🏬 [Store](https://store.vuetifyjs.com/)
+🎮 [Play](https://play.vuetifyjs.com/)
+💬 [Discord](https://discord.com/invite/s93b7Fv)
+🐦 [Twitter](https://twitter.com/vuetifyjs)
+👽 [Reddit](https://www.reddit.com/r/vuetifyjs)
 
 ## 📄Contents
-  - [Projects using Vuetify](#projects)
-    - [🏢 Open source solutions](#open-source)
-    - [💡Example projects](#examples)
-    - [🖼️ Themes](#themes)
-  - [Contribute](#contribute)
 
+- [Projects using Vuetify](#projects)
+  - [🏢 Open source solutions](#open-source)
+  - [💡Example projects](#examples)
+  - [🖼️ Themes](#themes)
+- [Contribute](#contribute)
 
 ## Projects using Vuetify <a name="projects"></a>
 
@@ -32,7 +40,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 
 - [Commandeer](https://github.com/commandeer/open) - A Desktop cloud management app / Vuetify + Electron
 - [EBMSoft.net](https://ebmsoft.net) - Software Development Company profile site
-- [GenVue](https://github.com/herbat73/GenVue) - Hostable, web application that lets confidential users upload and share private files / Vue.js + Vuetifyjs + NetCore 
+- [GenVue](https://github.com/herbat73/GenVue) - Hostable, web application that lets confidential users upload and share private files / Vue.js + Vuetifyjs + NetCore
 - [NocoDB](https://github.com/nocodb/nocodb) - A Free & Open Source Airtable Alternative (17,600+ Github stars) / Vuetify + Nuxt
 - [Open API Explorer](https://darosh.github.io/oax/#/) - OpenApi Specification Explorer
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases / Vue 2.6 + Vuetify 2.2
@@ -69,7 +77,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material admin template
 - [Vuebase](https://github.com/nasirouwagana/vuebase) - A Firebase-like theme built with Vuetify
 
-## Contribute
+## ⌨️ Contribute
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository to your own GitHub account and then [clone](https://help.github.com/articles/cloning-a-repository/) it to your local device.
 2. Start making changes.
