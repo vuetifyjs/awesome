@@ -56,6 +56,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Huskyfy](https://github.com/s-rigaud/huskyfy) - Advanced Spotify playlist manager ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-201936.svg?logo=spotify)
 - [Vue Material Admin](https://github.com/armomu/vue-material-admin) - Complex admin panel with integration of external library such as Babylon.Js, Three.Js, Apexchart, ... ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Babylon.js](https://img.shields.io/badge/Babylon.js-201936.svg?logo=babylon.js&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black.svg?logo=three.js)
 - [Vuetify Lux](https://github.com/yangjiakai/lux-admin-vuetify3) - Themed admin panel ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-181D27.svg?logo=firebase)
+- [Vitify](https://github.com/kingyue737/vitify-next) - Lightweight admin template ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white)
 
 ### Vuetify 2
 
@@ -85,7 +86,8 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify Chat](https://github.com/berksaribas/vuetify-chat) - Chat application ![Firebase](https://img.shields.io/badge/Firebase-181D27.svg?logo=firebase)
 - [Vuetify Formbase](https://github.com/wotamann/vuetify-form-base) - Formular Generator based on Vuetify 🌟 
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Swiper 
-- [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA 
+- [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA
+- [Vitify Admin](https://github.com/kingyue737/vitify-admin) - Vite-based admin starter template with TypeScript intellisense in SFC template ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white)
 
 
 ### 🖼️ Themes <a name="themes"></a>
