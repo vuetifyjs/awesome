@@ -70,6 +70,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Integrity Livestock Sales](https://www.integritylivestocksales.com/) - 🐮 Live Auction Listings ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?logo=nuxtdotjs&logoColor=white)
 - [Payshare](https://github.com/cb109/payshare) - Track shared expenses in a group of people ![Django](https://img.shields.io/badge/Django-0C4B33.svg?logo=django&logoColor=fff)
 - [Project Camp](https://github.com/TheWebFosters/project-camp) - Complete Project Management System (PMS), CRM, Support & Invoicing ![Laravel](https://img.shields.io/badge/Laravel-5-F13C2F.svg?logo=laravel&logoColor=F13C2F)
+- [ShortcutExpert](https://github.com/giray123/shortcutexpert) - A platform for all application shortcuts
 - [Sozler.im](https://www.sozler.im) - Quotes website ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?logo=nuxtdotjs&logoColor=white)
 - [TodoDev](https://github.com/IanLuan/TodoDev) - A `Todo Web App` made for developers ![Firebase](https://img.shields.io/badge/Firebase-181D27.svg?logo=firebase)
 - [Vue Admin Vuetify](https://github.com/vasttian/vue-admin-vuetify) - Admin interface
@@ -79,7 +80,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify Formbase](https://github.com/wotamann/vuetify-form-base) - Formular Generator based on Vuetify 🌟
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Swiper
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA
-- [Zone Pokédex 2](https://github.com/zekinah/zone-pokedex2) - A Simple Web App and PWA compatible Pokédex based on the [PokéAPI](https://pokeapi.co/) ![PokéAPI](https://img.shields.io/badge/Pok%C3%A9API-181D27.svg?logo=pokemon)
+- [Zone Pokédex 2](https://github.com/zekinah/zone-pokedex2) - Pokédex Web App and PWA compatible [![PokéAPI](https://img.shields.io/badge/Pok%C3%A9API-181D27.svg?logo=pokemon)](https://pokeapi.co/)
 
 ### 🖼️ Themes <a name="themes"></a>
 
