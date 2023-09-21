@@ -39,7 +39,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Commandeer](https://github.com/commandeer/open) - A Desktop cloud management app ![Electron](https://img.shields.io/badge/Electron-2A2D38.svg?logo=electron)
 - [EBMSoft.net](https://ebmsoft.net) - Software Development Company profile site
 - [GenVue](https://github.com/herbat73/GenVue) - Hostable, web application that lets confidential users upload and share private files ![NetCore](https://img.shields.io/badge/NetCore-6D409D.svg?logo=csharp)
-- [NocoDB](https://github.com/nocodb/nocodb) - A Free & Open Source Airtable Alternative (37k GitHub stars) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?logo=nuxtdotjs&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white)
+- [NocoDB](https://github.com/nocodb/nocodb) - A Free & Open Source Airtable Alternative ![Github](https://img.shields.io/github/stars/nocodb/nocodb?logo=github) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?logo=nuxtdotjs&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white)
 - [Open API Explorer](https://darosh.github.io/oax/#/) - OpenApi Specification Explorer
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases
 
