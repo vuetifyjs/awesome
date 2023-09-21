@@ -79,7 +79,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify Formbase](https://github.com/wotamann/vuetify-form-base) - Formular Generator based on Vuetify 🌟
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Swiper
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA
-
+- [Zone Pokédex 2](https://github.com/zekinah/zone-pokedex2) - A Simple Web App and PWA compatible Pokédex based on the [PokéAPI](https://pokeapi.co/) ![PokéAPI](https://img.shields.io/badge/Pok%C3%A9API-181D27.svg?logo=pokemon)
 
 ### 🖼️ Themes <a name="themes"></a>
 
