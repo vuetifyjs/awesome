@@ -50,6 +50,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Huskyfy](https://github.com/s-rigaud/huskyfy) - Advanced Spotify playlist manager ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-201936.svg?logo=spotify)
 - [Vue Material Admin](https://github.com/armomu/vue-material-admin) - Complex admin panel with integration of external library such as Babylon.Js, Three.Js and Apexchart ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Babylon.js](https://img.shields.io/badge/Babylon.js-201936.svg?logo=babylon.js&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black.svg?logo=three.js)
 - [Vuetify Lux](https://github.com/yangjiakai/lux-admin-vuetify3) - Themed admin panel ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-181D27.svg?logo=firebase)
+- [Vitify](https://github.com/kingyue737/vitify-next) - Lightweight admin template ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-white.svg?logo=apacheecharts&logoColor=E43961)
 
 ### Vuetify 2
 
@@ -73,6 +74,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [ShortcutExpert](https://github.com/giray123/shortcutexpert) - A platform for all application shortcuts
 - [Sozler.im](https://www.sozler.im) - Quotes website ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?logo=nuxtdotjs&logoColor=white)
 - [TodoDev](https://github.com/IanLuan/TodoDev) - A `Todo Web App` made for developers ![Firebase](https://img.shields.io/badge/Firebase-181D27.svg?logo=firebase)
+- [Vitify Admin](https://github.com/kingyue737/vitify-admin) - Vite-based admin starter template with TypeScript intellisense in SFC template ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-white.svg?logo=apacheecharts&logoColor=E43961)
 - [Vue Admin Vuetify](https://github.com/vasttian/vue-admin-vuetify) - Admin interface
 - [Vuetified](https://github.com/codeitlikemiley/vuetified) - Laravel 8 starter app ![Laravel](https://img.shields.io/badge/Laravel-8-F13C2F.svg?logo=laravel&logoColor=F13C2F)
 - [VuetiForm](https://github.com/MuhaddiMu/VuetiForm) - Interactive Vuetify Form Generator with Validation & Input Styling 🎉
