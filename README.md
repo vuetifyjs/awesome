@@ -25,9 +25,10 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [🙌 Projects using Vuetify](#projects)
     - [🏢 Open source solutions](#open-source)
     - ![Vuetify 3](https://img.shields.io/badge/Vuetify-3-1697F6.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAq1BMVEUAAAAAgP+A//8Aqv8cjv+q4/+z5v8Xov8Vlf8Wm/Sx3v8UmfUUk/Wv3/+w2/8XmfQWlvSu3P+v3f8WlfgWl/QVmPSu3f8Vl/cXmPev3v8XlvWu3f8Wl/cWl/Wt3f+t3P8Wl/cVl/cVlvWt3f+u3v8Wlvev3P8WmPUWl/av3v8Wl/YWl/cWl/au3f8Wl/YWl/YWl/au3f8Wl/YWlvau3f8Wl/YWl/au3f/////cYWC4AAAANnRSTlMAAgIDCQkKCwwXFxkaICotLkJDRkdIW2JjY2R3f4CAk5abnJywt7i5zs7R0uPj5eby8vP0+/x1U4h8AAAAAWJLR0Q4oAel1gAAAJxJREFUGBm1wecCgQAUBeBDZjaRvXfK7Nz3fzO5mekn34efWspD3XCoFrgpXyQ0R5fKr0DNRF3KuT3VBCHzKDcjDKhOBdwNJXA0i2eqPh7Sroj0MKXysnjqiLiZqk9l4yW5kRZWVFsDb2qbZJOhBj6UDIdqgYgulV9BxJhqiqj8gYFTAV8GDPTxLbUjvSxitEkbcRLrrYFYloW/uAL1jiJcmJrO/AAAAABJRU5ErkJggg==)
+        - [🛠 Components](#components-v3)
         - [💡 Example projects](#examples-v3)
     - ![Vuetify 2](https://img.shields.io/badge/Vuetify-2-7BC6FF.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAq1BMVEUAAAAAgP+A//8Aqv8cjv+q4/+z5v8Xov8Vlf8Wm/Sx3v8UmfUUk/Wv3/+w2/8XmfQWlvSu3P+v3f8WlfgWl/QVmPSu3f8Vl/cXmPev3v8XlvWu3f8Wl/cWl/Wt3f+t3P8Wl/cVl/cVlvWt3f+u3v8Wlvev3P8WmPUWl/av3v8Wl/YWl/cWl/au3f8Wl/YWl/YWl/au3f8Wl/YWlvau3f8Wl/YWl/au3f/////cYWC4AAAANnRSTlMAAgIDCQkKCwwXFxkaICotLkJDRkdIW2JjY2R3f4CAk5abnJywt7i5zs7R0uPj5eby8vP0+/x1U4h8AAAAAWJLR0Q4oAel1gAAAJxJREFUGBm1wecCgQAUBeBDZjaRvXfK7Nz3fzO5mekn34efWspD3XCoFrgpXyQ0R5fKr0DNRF3KuT3VBCHzKDcjDKhOBdwNJXA0i2eqPh7Sroj0MKXysnjqiLiZqk9l4yW5kRZWVFsDb2qbZJOhBj6UDIdqgYgulV9BxJhqiqj8gYFTAV8GDPTxLbUjvSxitEkbcRLrrYFYloW/uAL1jiJcmJrO/AAAAABJRU5ErkJggg==)
-        - [➕ Additional components](#components-v2)
+        - [🛠 Components](#components-v2)
         - [💡 Example projects](#examples-v2)
 - [🖼️ Themes](#themes)
 - [⌨️ Contribute](#contribute)
@@ -45,6 +46,10 @@ If you have something that you think belongs here, feel free to reach out to us 
 
 ### Vuetify 3
 
+#### 🛠 Components <a name="components-v3"></a>
+
+- [vuetify3-resize-drawer](https://github.com/webdevnerdstuff/vuetify3-resize-drawer) - The vuetify3-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
+
 #### 💡 Example projects <a name="examples-v3"></a>
 
 - [Huskyfy](https://github.com/s-rigaud/huskyfy) - Advanced Spotify playlist manager ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-201936.svg?logo=spotify)
@@ -52,15 +57,17 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vitify](https://github.com/kingyue737/vitify-next) - Lightweight admin template ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-white.svg?logo=apacheecharts&logoColor=E43961)
 - [Vue Material Admin](https://github.com/armomu/vue-material-admin) - Complex admin panel with integration of external library such as Babylon.Js, Three.Js and Apexchart ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Babylon.js](https://img.shields.io/badge/Babylon.js-201936.svg?logo=babylon.js&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black.svg?logo=three.js)
 - [Vuetify Lux](https://github.com/yangjiakai/lux-admin-vuetify3) - Themed admin panel ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-181D27.svg?logo=firebase)
+- [vuetify-plugin-template](https://github.com/webdevnerdstuff/vuetify-plugin-template) - A template to help you get starting building your own plugin/component for Vuetify. ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white)
 
 ### Vuetify 2
 
-#### ➕ Additional components <a name="components-v2"></a>
+#### 🛠 Components <a name="components-v2"></a>
 
 - [Dayspan Vuetify](https://github.com/ClickerMonkey/dayspan-vuetify) - A fully featured calendar, event, and scheduling library of components
 - [Tiptap Vuetify](https://github.com/iliyaZelenko/tiptap-vuetify) - Rich text editor build on top of [tiptap](https://github.com/ueberdosis/tiptap)
 - [Vuetify Imge Input](https://github.com/SeregPie/VuetifyImageInput) - Image editor as a component
 - [Vuetify JsonSchema Form](https://github.com/koumoul-dev/vuetify-jsonschema-form) - Create dynamic Vuetify form from JsonSchema
+- [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
 
 #### 💡 Example projects <a name="examples-v2"></a>
 
