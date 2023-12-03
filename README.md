@@ -48,7 +48,10 @@ If you have something that you think belongs here, feel free to reach out to us 
 
 #### 🛠 Components <a name="components-v3"></a>
 
-- [vuetify3-resize-drawer](https://github.com/webdevnerdstuff/vuetify3-resize-drawer) - The vuetify3-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
+- [vuetify-color-field](https://github.com/webdevnerdstuff/vuetify-color-field) - Vuetify Color Field is a Vuetify VTextField Color Picker Component
+- [vuetify-drilldown-table](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
+- [vuetify-inline-fields](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
+- [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
 
 #### 💡 Example projects <a name="examples-v3"></a>
 
