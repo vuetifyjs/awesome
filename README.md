@@ -53,6 +53,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [vuetify-drilldown-table](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
 - [vuetify-inline-fields](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
 - [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
+- [@qnx/vuetify](https://github.com/yatendra121/vq-vuetify) - An extendable library of Vuetify form components & more.
 
 #### 💡 Example projects <a name="examples-v3"></a>
 
@@ -72,7 +73,6 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuetify Imge Input](https://github.com/SeregPie/VuetifyImageInput) - Image editor as a component
 - [Vuetify JsonSchema Form](https://github.com/koumoul-dev/vuetify-jsonschema-form) - Create dynamic Vuetify form from JsonSchema
 - [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
-- [@qnx/vuetify](https://github.com/yatendra121/vq-vuetify) - An extendable library of Vuetify components.
 
 #### 💡 Example projects <a name="examples-v2"></a>
 
