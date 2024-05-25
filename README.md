@@ -43,7 +43,8 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [NocoDB](https://github.com/nocodb/nocodb) - A Free & Open Source Airtable Alternative ![Github](https://img.shields.io/github/stars/nocodb/nocodb?logo=github) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?logo=nuxtdotjs&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white)
 - [Open API Explorer](https://darosh.github.io/oax/#/) - OpenApi Specification Explorer
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases
-- [httpSMS](https://github.com/ndolestudio/httpsms) - Use your Android phone to send and receive SMS messages via an HTTP API ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?logo=nuxtdotjs&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) 
+- [httpSMS](https://github.com/ndolestudio/httpsms) - Use your Android phone to send and receive SMS messages via an HTTP API ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?logo=nuxtdotjs&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white)
+- [@cabloy/front-vuetify](https://github.com/cabloy/cabloy-front/tree/main/cabloy-front-vuetify) - @cabloy/front-vuetify is a vue3 framework with ioc container. No `ref/reactive`, no `ref.value`, no `pinia`
 
 ### Vuetify 3
 
