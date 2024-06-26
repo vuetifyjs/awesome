@@ -54,6 +54,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [vuetify-inline-fields](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
 - [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
 - [Vuetify3-Plus](https://github.com/Warnier-zhang/Vuetify3-Plus) - A useful complement and improvement to Vuetify 3.
+- [@qnx/vuetify](https://github.com/yatendra121/vq-vuetify) - An extendable library of Vuetify form components & more.
 
 #### 💡 Example projects <a name="examples-v3"></a>
 
