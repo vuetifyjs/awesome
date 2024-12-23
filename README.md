@@ -50,6 +50,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 
 #### 🛠 Components <a name="components-v3"></a>
 
+- [Vuetify Notifier](https://github.com/kieuminhcanh/vuetify-notifier) - Vuetify Notifier provides a seamless way to integrate Toast, Alert, Confirm, Dinamic dialogs, and directives into your Vuetify projects.
 - [vuetify-color-field](https://github.com/webdevnerdstuff/vuetify-color-field) - Vuetify Color Field is a Vuetify VTextField Color Picker Component
 - [vuetify-drilldown-table](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
 - [vuetify-inline-fields](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
