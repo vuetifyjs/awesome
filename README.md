@@ -97,6 +97,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [VuetiForm](https://github.com/MuhaddiMu/VuetiForm) - Interactive Vuetify Form Generator with Validation & Input Styling 🎉
 - [Vuetify Chat](https://github.com/berksaribas/vuetify-chat) - Chat application ![Firebase](https://img.shields.io/badge/Firebase-181D27.svg?logo=firebase)
 - [Vuetify Formbase](https://github.com/wotamann/vuetify-form-base) - Formular Generator based on Vuetify 🌟
+- [Vuetiforms](https://github.com/elkofy/Vuetiforms)- Formular Generator based on Zod and Vuetify 🤖
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Swiper
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA
 - [Zone Pokédex 2](https://github.com/zekinah/zone-pokedex2) - Pokédex Web App and PWA compatible [![PokéAPI](https://img.shields.io/badge/Pok%C3%A9API-181D27.svg?logo=pokemon)](https://pokeapi.co/)
