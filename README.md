@@ -108,6 +108,8 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vuebase](https://github.com/nasirouwagana/vuebase) - A Firebase-like theme
 - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material admin template
 - [Vuetify Material Dashboard](https://github.com/creativetimofficial/vuetify-material-dashboard)
+- [Sneat Vuetify NuxtJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-nuxtjs-admin-template/) - Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.
+
 
 ## ⌨️ Contribute
 
