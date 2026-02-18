@@ -57,7 +57,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
 - [Vuetify3-Plus](https://github.com/Warnier-zhang/Vuetify3-Plus) - A useful complement and improvement to Vuetify 3.
 - [@qnx/vuetify](https://github.com/yatendra121/vq-vuetify) - An extendable library of Vuetify form components & more.
-
+- [vuetify-swatches](https://github.com/logue/vuetify-swatches) - Color palette component for Vuetify 3.
 #### 💡 Example projects <a name="examples-v3"></a>
 
 - [Huskyfy](https://github.com/s-rigaud/huskyfy) - Advanced Spotify playlist manager ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-201936.svg?logo=spotify)
@@ -67,6 +67,8 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vue Material Admin](https://github.com/armomu/vue-material-admin) - Complex admin panel with integration of external library such as Babylon.Js, Three.Js and Apexchart ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Babylon.js](https://img.shields.io/badge/Babylon.js-201936.svg?logo=babylon.js&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black.svg?logo=three.js)
 - [Vuetify Lux](https://github.com/yangjiakai/lux-admin-vuetify3) - Themed admin panel ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-181D27.svg?logo=firebase)
 - [vuetify-plugin-template](https://github.com/webdevnerdstuff/vuetify-plugin-template) - A template to help you get starting building your own plugin/component for Vuetify. ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white)
+- [vuetify-geojson-editor](https://github.com/logue/vuetify-geojson-editor) ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) - Simple geojson editor. 
+- [tauri-vuetify-starter](https://github.com/logue/tauri-vuetify-starter) ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?logo=typescript&logoColor=white) - A modern desktop application template built with Tauri v2 and Vuetify 3.
 
 ### Vuetify 2
 
