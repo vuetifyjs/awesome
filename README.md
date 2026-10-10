@@ -1,10 +1,17 @@
-<p align="center">
- <a href="https://vuetifyjs.com" target="_blank">
-  <img alt="Vuetify Logo" width="100" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
- </a>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.vuetifyjs.com/docs/images/one/logos/vuetify-logo-dark.png">
+    <img alt="Vuetify Logo" src="https://cdn.vuetifyjs.com/docs/images/one/logos/vuetify-logo-light.png" height="100">
+  </picture>
+</div>
 
-<h1>Awesome Vuetify <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a></h1>
+<h1 align="center">Awesome Vuetify <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a></h1>
+
+<p align="center">
+  <a href="https://vuetifyjs.com"><img src="https://img.shields.io/badge/docs-vuetifyjs.com-blue" alt="Docs"></a>
+  <a href="https://discord.gg/vuetify"><img src="https://img.shields.io/discord/1513968811047522396?logo=discord&logoColor=white&label=Discord&color=5865F2" alt="Discord"></a>
+  <a href="https://github.com/vuetifyjs/awesome/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+</p>
 
 [Vuetify](https://vuetifyjs.com) is a no design skills required UI Library with beautifully handcrafted [Vue](https://vuejs.org/) Components. Below you will find a collection of applications and tools that help to showcase the best of what Vuetify has to offer!
 
