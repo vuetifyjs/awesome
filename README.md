@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://vuetifyjs.com"><img src="https://img.shields.io/badge/docs-vuetifyjs.com-blue" alt="Docs"></a>
-  <a href="https://discord.gg/vuetify"><img src="https://discord.com/api/guilds/1513968811047522396/widget.png" alt="Discord"></a>
+  <a href="https://discord.gg/vuetify"><img src="https://img.shields.io/discord/1513968811047522396?logo=discord&logoColor=white&label=Discord&color=5865F2" alt="Discord"></a>
   <a href="https://github.com/vuetifyjs/awesome/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
 </p>
 
