@@ -117,7 +117,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material admin template
 - [Vuetify Material Dashboard](https://github.com/creativetimofficial/vuetify-material-dashboard)
 - [Sneat Vuetify NuxtJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-nuxtjs-admin-template/) - Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.
-
+- [Vuetiwatch](https://github.com/j-tap/vuetiwatch) - Nineteen free, plug-and-play themes for Vuetify 4 — what Bootswatch is to Bootstrap, with a [live preview](https://j-tap.github.io/vuetiwatch/) of every theme
 
 ## ⌨️ Contribute
 
